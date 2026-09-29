@@ -1,0 +1,6 @@
+{
+  "name": "Maison Scentcraft Bespoke Perfumery",
+  "description": "Bespoke perfume bar & personalized fragrance atelier for Weddings, Debuts, Baby Showers, Stag/Bachelorettes, and Special Events in the Philippines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
